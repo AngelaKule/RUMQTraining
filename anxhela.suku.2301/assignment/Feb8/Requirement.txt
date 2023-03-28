@@ -1,0 +1,20 @@
+Feb 08 Assignment
+
+encapsulation
+
+1. Create a class named BankAccount that has a private field balance and public methods deposit(double amount) 
+and withdraw(double amount) to deposit and withdraw money from the account, respectively. 
+The methods should check if the balance is sufficient before performing the transaction and update the balance accordingly.
+
+inheritance
+1. Create a class named "Shape" with two double type instance variables "width" and "height". 
+Create a subclass named "Rectangle" that inherits from the "Shape" class 
+and has a method named "calculateArea()" that returns the area of the rectangle (width * height).
+ Create an object of the "Rectangle" class and call its "calculateArea()" method.
+
+
+polymorphism
+1. Create a Person class with a greet method that prints "Hello, I am a person". 
+Create a Teacher and Student class that extend Person and override the greet method to print "Hello, I am a teacher" 
+and "Hello, I am a student" respectively. 
+Create a Main class that has an array of Person objects and loop through the array to call the greet method on each object.

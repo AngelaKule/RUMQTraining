@@ -1,0 +1,20 @@
+Quiz 1 : If you do not want to type Colletors.toList all the time and just type toList instead, what should you do?
+Import the toList method from the Collectors class and use it instead of the Collectors.toList
+
+Quiz 2 : What method on which class do you need if you want to create a map from a stream.
+Collectors.toMap , Collecros = class and toMap = method
+
+Quiz 3: What method on which class do you need if you want to generate an infinite stream of numbers.
+Stream class and the method .generate 
+
+Quiz 4: What method on which class do you need if you want to create an empty optional?
+Class Optional and the method .empty
+
+Quiz 5: If you have a object that contains object which contains an object all of which can return an Optional,
+ which method on which class do you use to ensure that you handle them properly?
+Method .flatMap of the Otional class 
+
+Quiz 6 : If you have a list of things you own which has a property called type which is 
+an Enum of CLOTHING, UTENSILS, ELECTRONICS, how would you create a map where the type is the key and value is a list of things of that type? 
+Just think about it, and write in a sentence, don't write code.
+Grouping the items by the type . Meaning the values will be a group of the type key.

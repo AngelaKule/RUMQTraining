@@ -1,0 +1,3 @@
+As home assginment try reading a file, create a stream of words, 
+and count how many words are larger than 8 characters in that file. 
+Get a text file of a favourite book from https://www.gutenberg.org/

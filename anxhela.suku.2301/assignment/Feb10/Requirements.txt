@@ -1,0 +1,12 @@
+Feb 10 Assignment
+OOPs
+4. What is an abstract class in Java?
+5. What is an interface in Java?
+6. What is a constructor in Java?
+7. Can a class be both abstract and final in Java?
+List
+4. Write a program to sort a List of custom objects based on a property.
+5. Write a program to find the common elements between two Lists.
+Map
+7. Write a program to find the maximum and minimum values in a Map.
+8. Write a program to convert a Map to a List.

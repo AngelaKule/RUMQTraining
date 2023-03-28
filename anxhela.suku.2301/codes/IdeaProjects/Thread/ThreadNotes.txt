@@ -1,0 +1,24 @@
+States 
+1. New             - The thread had been created but not started.
+2. Runnable        - The thread is executing in the JVM.
+3. Blocked         - The thread is blocked waiting for a monitor lock.
+4. Waiting         - The thread is waiting ndefinitely for another thread to perform a particular action.
+5. Timed waiting   - The thread is waiting for another thread to perform an action for up to a specified waiting time.
+6. Terminated      - The thread has exited.
+
+A thread exits when its run methhod return or when an uncaught exception is thrown.
+
+Interrupt          - interrupts the thread. Flag that indicated that the thread should be interrupted.
+Interruped         - tests whether the current thread has been interrupted. Clears the status.
+isInterrupted      - test whether the thread has been interrupted.
+sleep              - throws an InterruptedException if the thread is interrupted while sleeping
+
+
+Volatile           - keyword, ensures that changes done by one thread is visible to other threads.
+syncronize         - critical section
+deadlock           - 2 or more thread are blocked forever, waiting for each other
+
+Use synchronized on a method to avoid the race condition. 
+Race condition 2 or more thread are accessing the same variable and they interfere with each other.
+ReentrabtLock class created a lock object. Method Lock and unlock are available.
+

@@ -1,0 +1,11 @@
+This
+is 
+a 
+test
+text
+file 
+for 
+the 
+stream
+exercise
+.

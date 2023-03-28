@@ -1,0 +1,9 @@
+List
+1. Write a program to initialize a List of numbers and display its elements using an Iterator.
+2. Write a program to convert an ArrayList to an Array and vice versa.
+3. Write a program to demonstrate the use of addAll() method to add elements of one List to another.
+
+Map
+4. Write a program to find the common elements between two Maps.
+5. Write a program to check if a specific key exists in a Map.
+6. Write a program to remove duplicates from a Map.

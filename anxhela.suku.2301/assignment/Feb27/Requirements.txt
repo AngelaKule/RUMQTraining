@@ -1,0 +1,2 @@
+Create  a sub list, sub set and sub map from an existing one.
+also create head & tail of set and map
